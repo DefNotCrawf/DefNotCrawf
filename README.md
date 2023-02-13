@@ -6,7 +6,8 @@
 
 [![DefNotCrawf's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefNotCrawf&show_icons=true&theme=github_dark&count_private=true)](https://github.com/DefNotCrawf)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefNotCrawf&layout=compact&langs_count=100&theme=github_dark)](https://github.com/DefNotCrawf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefNotCrawf&show_icons=true&theme=github_dark&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 DefNotCrawf/DefNotCrawf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
