@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing so far.
 - 📫 How to reach me: N/A
 
-[![DefNotCrawf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firecul&show_icons=true&theme=github_dark&count_private=true)](https://github.com/DefNotCrawf)
+[![DefNotCrawf's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefNotCrawf&show_icons=true&theme=github_dark&count_private=true)](https://github.com/DefNotCrawf)
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefNotCrawf&layout=compact&langs_count=100&theme=github_dark)](https://github.com/DefNotCrawf)
 
