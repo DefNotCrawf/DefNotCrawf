@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DefNotCrawf (a student at Tempe High School)
-- 👀 I’m interested in learning new coding languages and creating some prototypes of some of my ideas.
-- 🌱 I’m currently learning: Machine Learning and Artificial Intelligence.
+- 👋 Hi, I’m @DefNotCrawf (a former student at Tempe High School, and current student of Western Sydney University.)
+- 👀 I’m interested in learning new coding languages.
+- 🌱 I’m currently learning: Java
 - 💞️ I’m looking to collaborate on nothing so far.
 - 📫 How to reach me: N/A
 
